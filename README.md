@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello
 
-<!--
-**NguyenCuongCoder24127337/NguyenCuongCoder24127337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Cuong Nguyen**.
 
-Here are some ideas to get you started:
+## 🎓 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am a student at **University of Science, VNU-HCM**.
+* I study in **Ho Chi Minh City, Vietnam**.
+* I am learning **programming and artificial intelligence**.
+
+## 💻 Skills
+
+* C / C++
+* Python
+* Git
+* Linux
+
+## 📫 Contact
+
+* Email: [cn20378@gmail.com](mailto:cn20378@gmail.com)
