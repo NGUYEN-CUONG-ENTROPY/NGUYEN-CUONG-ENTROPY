@@ -44,11 +44,6 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 🎨 Complete Smart Tourism Mobile Application
   - 📱 **Tech Stack**: Flutter, Dart
   - 🔗 **Features**: Trip Planning, Location Discovery, Social Sharing
-
-- **🖥️ [travel_together_server](https://github.com/NguyenCuongCoder24127337/travel_together_server-)**
-  - 🔌 Backend Server for TravelTogether App
-  - 📡 REST API Development
-
 ---
 
 ## 🎮 Systems & Game Development
@@ -86,9 +81,6 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 - **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NguyenCuongCoder24127337/tra_cuu_diem_thi_tri_thuc_mo)**
   - Web application for exam score lookup
   - 💻 **Tech Stack**: EJS, Node.js
-
-- **🎨 [Web Project](https://github.com/NguyenCuongCoder24127337/project)**
-  - Front-end development project
 
 ---
 
