@@ -84,16 +84,14 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 💻 **Tech Stack**: Python
   - 🎯 Focus: TCP/IP, Data Transmission
 
----
-
-## 🔬 Other Projects
-
 - **🗂️ [OS-Page-Tables-and-File-System](https://github.com/NGUYEN-CUONG-ENTROPY/OS-Page-Tables-and-File-System-)**
   - 📖 Deep Dive into Operating System Concepts
   - 💾 Virtual Memory, Paging, File System Implementation
   - 💻 **Tech Stack**: C
 
+
 ---
+
 
 ## 📊 GitHub Statistics
 
