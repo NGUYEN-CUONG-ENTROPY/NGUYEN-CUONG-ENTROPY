@@ -20,74 +20,74 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ## 🛠️ AI & Data Science Projects
 
-- **📊 [Datathon 2026 - The Gridbreaker](https://github.com/NGUYEN-CUONG-ENTROPY/Datathon_2026)**
-  - 🎯 VinTelligence - VinUniversity Competition
-  - 📈 Revenue Forecasting for Vietnamese E-Commerce Fashion Company
-  - 🔧 **Tech Stack**: Python, Machine Learning, Data Analysis, Jupyter Notebook
-  - 📝 Involved: Data Visualization, Model Building, Revenue Prediction
+- ** [Datathon 2026 - The Gridbreaker](https://github.com/NGUYEN-CUONG-ENTROPY/Datathon_2026)**
+  -  VinTelligence - VinUniversity Competition
+  -  Revenue Forecasting for Vietnamese E-Commerce Fashion Company
+  -  **Tech Stack**: Python, Machine Learning, Data Analysis, Jupyter Notebook
+  -  Involved: Data Visualization, Model Building, Revenue Prediction
 
-- **🧩 [Freecell-Solver](https://github.com/NGUYEN-CUONG-ENTROPY/Freecell-Solver)**
-  - 🎮 AI-based Card Game Solver
-  - 🔍 Implemented search algorithms to solve Freecell puzzles
-  - 💻 **Tech Stack**: Python
-  - 🧠 Algorithms: BFS, DFS, A* Search
+- ** [Freecell-Solver](https://github.com/NGUYEN-CUONG-ENTROPY/Freecell-Solver)**
+  -  AI-based Card Game Solver
+  -  Implemented search algorithms to solve Freecell puzzles
+  -  **Tech Stack**: Python
+  -  Algorithms: BFS, DFS, A* Search
   
-- **🎲 [Futoshiki-Puzzle](https://github.com/NGUYEN-CUONG-ENTROPY/Futoshiki-Puzzle)**
-  - 🧩 Futoshiki Puzzle Solver using AI Algorithms
-  - 🔍 Constraint Satisfaction Problem (CSP) Solver
-  - 💻 **Tech Stack**: Python
-  - 🧠 Algorithms: Backtracking, Constraint Propagation
+- ** [Futoshiki-Puzzle](https://github.com/NGUYEN-CUONG-ENTROPY/Futoshiki-Puzzle)**
+  -  Futoshiki Puzzle Solver using AI Algorithms
+  -  Constraint Satisfaction Problem (CSP) Solver
+  -  **Tech Stack**: Python
+  -  Algorithms: Backtracking, Constraint Propagation
 
 ---
 
-## 📱 Mobile & Full-Stack Development
+##  Mobile & Full-Stack Development
 
-- **🌍 [TravelTogether](https://github.com/NGUYEN-CUONG-ENTROPY/TravelTogether)**
-  - 📚 Computational Thinking Group Project (HCMUS 2025-2026)
-  - 🎨 Complete Smart Tourism Mobile Application
-  - 📱 **Tech Stack**: Flutter, Dart
-  - 🔗 **Features**: Trip Planning, Location Discovery, Social Sharing
+- ** [TravelTogether](https://github.com/NGUYEN-CUONG-ENTROPY/TravelTogether)**
+  -  Computational Thinking Group Project (HCMUS 2025-2026)
+  -  Complete Smart Tourism Mobile Application
+  -  **Tech Stack**: Flutter, Dart
+  -  **Features**: Trip Planning, Location Discovery, Social Sharing
 
-- **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
-  - 📊 Web Application for Exam Score Lookup
-  - 🔍 Search & Filter Functionality
-  - 💻 **Tech Stack**: EJS, Node.js, Express
+- ** [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
+  -  Web Application for Exam Score Lookup
+  -  Search & Filter Functionality
+  -  **Tech Stack**: EJS, Node.js, Express
 
 ---
 
-## 🎮 Game Development & OOP Projects
+##  Game Development & OOP Projects
 
-- **🕹️ [PUSSY INVADERS](https://github.com/NGUYEN-CUONG-ENTROPY/PUSSY_INVADERS)**
-  - 🎮 Space Shooter Game Implementation
-  - 🎯 Classic arcade-style game
-  - 💻 **Tech Stack**: C++
+- ** [PUSSY INVADERS](https://github.com/NGUYEN-CUONG-ENTROPY/PUSSY_INVADERS)**
+  -  Space Shooter Game Implementation
+  -  Classic arcade-style game
+  -  **Tech Stack**: C++
 
-- **🏟️ [Manager-Stadium-OOP](https://github.com/NGUYEN-CUONG-ENTROPY/Manager-Stadium-OOP)**
-  - 🏟️ Stadium Management System using Object-Oriented Programming
-  - 📋 Ticket Management, Event Scheduling, Seat Allocation
-  - 💻 **Tech Stack**: C
-  - 🎯 Focus: OOP Principles, File I/O
+- ** [Manager-Stadium-OOP](https://github.com/NGUYEN-CUONG-ENTROPY/Manager-Stadium-OOP)**
+  -  Stadium Management System using Object-Oriented Programming
+  -  Ticket Management, Event Scheduling, Seat Allocation
+  -  **Tech Stack**: C
+  -  Focus: OOP Principles, File I/O
 
 ---
 
 ## 🖧 Systems & Network Programming
 
-- **🐧 [XV6 Operating System Labs](https://github.com/NGUYEN-CUONG-ENTROPY/XV6-operating-system-labs)**
-  - 📚 OS Course Project (HCMUS 2025-2026)
-  - 🔧 Low-level System Programming with xv6
-  - 💻 **Tech Stack**: C
-  - 🎯 Focus: Process Management, Memory Management, System Calls
+- ** [XV6 Operating System Labs](https://github.com/NGUYEN-CUONG-ENTROPY/XV6-operating-system-labs)**
+  -  OS Course Project (HCMUS 2025-2026)
+  -  Low-level System Programming with xv6
+  -  **Tech Stack**: C
+  -  Focus: Process Management, Memory Management, System Calls
 
-- **🌐 [PYTHONSOCKET - Computer Networks](https://github.com/NGUYEN-CUONG-ENTROPY/PYTHONSOCKET)**
-  - 📡 Network Programming Project (2024-2025)
-  - 🔌 Socket Programming & Client-Server Architecture
-  - 💻 **Tech Stack**: Python
-  - 🎯 Focus: TCP/IP, Data Transmission
+- ** [PYTHONSOCKET - Computer Networks](https://github.com/NGUYEN-CUONG-ENTROPY/PYTHONSOCKET)**
+  -  Network Programming Project (2024-2025)
+  -  Socket Programming & Client-Server Architecture
+  -  **Tech Stack**: Python
+  -  Focus: TCP/IP, Data Transmission
 
-- **🗂️ [OS-Page-Tables-and-File-System](https://github.com/NGUYEN-CUONG-ENTROPY/OS-Page-Tables-and-File-System-)**
-  - 📖 Deep Dive into Operating System Concepts
-  - 💾 Virtual Memory, Paging, File System Implementation
-  - 💻 **Tech Stack**: C
+- ** [OS-Page-Tables-and-File-System](https://github.com/NGUYEN-CUONG-ENTROPY/OS-Page-Tables-and-File-System-)**
+  -  Deep Dive into Operating System Concepts
+  -  Virtual Memory, Paging, File System Implementation
+  -  **Tech Stack**: C
 
 
 ---
