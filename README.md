@@ -4,6 +4,7 @@
 
 🎓 **Student at University of Science – VNU-HCM (HCMUS)**  
 🚀 **Aspiring AI Engineer**
+
 🌏 **Based in Ho Chi Minh City, Vietnam**  
 📧 **Email**: [cn20378@gmail.com](mailto:cn20378@gmail.com)  
 💼 **LinkedIn**: [Cường Nguyễn Tiến](https://www.linkedin.com/in/cường-nguyễn-tiến-8a12a3387/)
