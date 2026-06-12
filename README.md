@@ -1,16 +1,12 @@
-# Hi there, I'm Nguyen Cuong! <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28px" alt="wave" />
+# Hi there, I'm Nguyen Cuong! 👋
 
-<div align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=NGUYEN-CUONG-ENTROPY&color=blueviolet)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NGUYEN-CUONG-ENTROPY&color=blueviolet)
-
-🎓 Student at University of Science – VNU-HCM (HCMUS)  
-🚀 Aspiring AI Engineer & Full-Stack Developer  
-🌏 Based in Ho Chi Minh City, Vietnam
-
-[GitHub](https://github.com/NGUYEN-CUONG-ENTROPY) • [Email](mailto:cn20378@gmail.com)
-
-</div>
+🎓 **Student at University of Science – VNU-HCM (HCMUS)**  
+🚀 **Aspiring AI Engineer & Full-Stack Developer**  
+🌏 **Based in Ho Chi Minh City, Vietnam**  
+📧 **Email**: [cn20378@gmail.com](mailto:cn20378@gmail.com)  
+💼 **LinkedIn**: [Cường Nguyễn Tiến](https://www.linkedin.com/in/cường-nguyễn-tiến-8a12a3387/)
 
 ---
 
@@ -34,6 +30,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 🎮 AI-based Card Game Solver
   - 🔍 Implemented search algorithms to solve Freecell puzzles
   - 💻 **Tech Stack**: Python
+  - 🧠 Algorithms: BFS, DFS, A* Search
 
 ---
 
@@ -45,21 +42,30 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 📱 **Tech Stack**: Flutter, Dart
   - 🔗 **Features**: Trip Planning, Location Discovery, Social Sharing
 
-- **🖥️ [travel_together_server](https://github.com/NGUYEN-CUONG-ENTROPY/travel_together_server-)**
-  - 🔌 Backend Server for TravelTogether App
-  - 📡 REST API Development
+- **🔌 [travel_together_server](https://github.com/NGUYEN-CUONG-ENTROPY/travel_together_server-)**
+  - 🚀 Backend Server for TravelTogether Application
+  - 💾 Database Management & API Endpoints
+  - 🔧 **Tech Stack**: Node.js, Express, MongoDB
+
+- **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
+  - 📊 Web Application for Exam Score Lookup
+  - 🔍 Search & Filter Functionality
+  - 💻 **Tech Stack**: EJS, Node.js, Express
 
 ---
 
-## 🎮 Systems & Game Development
+## 🎮 Game Development & OOP Projects
 
 - **🕹️ [PUSSY INVADERS](https://github.com/NGUYEN-CUONG-ENTROPY/PUSSY_INVADERS)**
-  - Space Shooter Game Implementation
+  - 🎮 Space Shooter Game Implementation
+  - 🎯 Classic arcade-style game
   - 💻 **Tech Stack**: C++
 
 - **🏟️ [Manager-Stadium-OOP](https://github.com/NGUYEN-CUONG-ENTROPY/Manager-Stadium-OOP)**
-  - Stadium Management System using Object-Oriented Programming
+  - 🏟️ Stadium Management System using Object-Oriented Programming
+  - 📋 Ticket Management, Event Scheduling, Seat Allocation
   - 💻 **Tech Stack**: C
+  - 🎯 Focus: OOP Principles, File I/O
 
 ---
 
@@ -75,101 +81,83 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 📡 Network Programming Project (2024-2025)
   - 🔌 Socket Programming & Client-Server Architecture
   - 💻 **Tech Stack**: Python
+  - 🎯 Focus: TCP/IP, Data Transmission
+
+---
+
+## 🧩 Puzzle Solvers & Algorithm Projects
+
+- **🎲 [Futoshiki-Puzzle](https://github.com/NGUYEN-CUONG-ENTROPY/Futoshiki-Puzzle)**
+  - 🧩 Futoshiki Puzzle Solver using AI Algorithms
+  - 🔍 Constraint Satisfaction Problem (CSP) Solver
+  - 💻 **Tech Stack**: Python
+  - 🧠 Algorithms: Backtracking, Constraint Propagation
 
 ---
 
 ## 🔬 Other Projects
 
 - **🗂️ [OS-Page-Tables-and-File-System](https://github.com/NGUYEN-CUONG-ENTROPY/OS-Page-Tables-and-File-System-)**
-  - Deep dive into operating system concepts
-
-- **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
-  - Web application for exam score lookup
-  - 💻 **Tech Stack**: EJS, Node.js
-
-- **🎨 [Web Project](https://github.com/NGUYEN-CUONG-ENTROPY/project)**
-  - Front-end development project
-
----
-
-## 💻 Technologies & Skills
-
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### **Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-%230175C2.svg?style=flat&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-
-### **AI & Data Science**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=flat)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4ECDC4?style=flat)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-95E1D3?style=flat)
-
----
-
-## 🏆 Achievements & Highlights
-
-- ✅ **Pull Shark** - Active contributor with multiple pull requests
-- ✅ **Quickdraw** - Quick repository initialization
-- ✅ **YOLO** - Committed to rapid prototyping
+  - 📖 Deep Dive into Operating System Concepts
+  - 💾 Virtual Memory, Paging, File System Implementation
+  - 💻 **Tech Stack**: C
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-CUONG-ENTROPY&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-CUONG-ENTROPY&layout=compact&theme=radical)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=NGUYEN-CUONG-ENTROPY&theme=radical&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
-</div>
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Specializations
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4CAF50?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-purple?style=for-the-badge)
 
 ---
 
-## 📚 Currently Learning
+## 🏆 Achievements
 
-```
-├── 🤖 Advanced AI & Machine Learning Models
-├── 📊 Data Science & Big Data Analysis
-├── 🔗 Blockchain & Smart Contracts
-├── ☁️ Cloud Computing & DevOps
-├── 🏗️ System Design & Architecture
-└── 🧠 Advanced Algorithms & Competitive Programming
-```
+✨ **Achievements Unlocked**:
+- 🦈 Pull Shark - Active Contributor
+- ⚡ Quickdraw - Fast Committer
+- 🎯 YOLO - Daring Developer
 
 ---
 
-## 📫 Connect with me
-
-<div align="center">
+## 📞 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cn20378@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cường-nguyễn-tiến-8a12a3387/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NGUYEN-CUONG-ENTROPY)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-8a12a3387/)
 
 ---
 
-![Thank you message](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=100&color=45A1FF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Let's+build+cool+stuff+together!+%F0%9F%98%80)
+**⭐ Feel free to explore my repositories and don't hesitate to reach out!**
 
-**Made with ❤️ by Nguyen Cuong**
-
-</div>
+*Last updated: June 2026*
