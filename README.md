@@ -31,6 +31,12 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 🔍 Implemented search algorithms to solve Freecell puzzles
   - 💻 **Tech Stack**: Python
   - 🧠 Algorithms: BFS, DFS, A* Search
+  
+- **🎲 [Futoshiki-Puzzle](https://github.com/NGUYEN-CUONG-ENTROPY/Futoshiki-Puzzle)**
+  - 🧩 Futoshiki Puzzle Solver using AI Algorithms
+  - 🔍 Constraint Satisfaction Problem (CSP) Solver
+  - 💻 **Tech Stack**: Python
+  - 🧠 Algorithms: Backtracking, Constraint Propagation
 
 ---
 
@@ -41,11 +47,6 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 🎨 Complete Smart Tourism Mobile Application
   - 📱 **Tech Stack**: Flutter, Dart
   - 🔗 **Features**: Trip Planning, Location Discovery, Social Sharing
-
-- **🔌 [travel_together_server](https://github.com/NGUYEN-CUONG-ENTROPY/travel_together_server-)**
-  - 🚀 Backend Server for TravelTogether Application
-  - 💾 Database Management & API Endpoints
-  - 🔧 **Tech Stack**: Node.js, Express, MongoDB
 
 - **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
   - 📊 Web Application for Exam Score Lookup
@@ -82,16 +83,6 @@ I enjoy working on diverse projects—from building mobile applications with Flu
   - 🔌 Socket Programming & Client-Server Architecture
   - 💻 **Tech Stack**: Python
   - 🎯 Focus: TCP/IP, Data Transmission
-
----
-
-## 🧩 Puzzle Solvers & Algorithm Projects
-
-- **🎲 [Futoshiki-Puzzle](https://github.com/NGUYEN-CUONG-ENTROPY/Futoshiki-Puzzle)**
-  - 🧩 Futoshiki Puzzle Solver using AI Algorithms
-  - 🔍 Constraint Satisfaction Problem (CSP) Solver
-  - 💻 **Tech Stack**: Python
-  - 🧠 Algorithms: Backtracking, Constraint Propagation
 
 ---
 
