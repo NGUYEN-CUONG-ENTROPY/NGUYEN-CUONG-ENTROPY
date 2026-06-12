@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NguyenCuongCoder24127337&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=NGUYEN-CUONG-ENTROPY&color=blueviolet)
 
 🎓 Student at University of Science – VNU-HCM (HCMUS)  
 🚀 Aspiring AI Engineer & Full-Stack Developer  
 🌏 Based in Ho Chi Minh City, Vietnam
 
-[GitHub](https://github.com/NguyenCuongCoder24127337) • [Email](mailto:cn20378@gmail.com)
+[GitHub](https://github.com/NGUYEN-CUONG-ENTROPY) • [Email](mailto:cn20378@gmail.com)
 
 </div>
 
@@ -24,13 +24,13 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ## 🛠️ AI & Data Science Projects
 
-- **📊 [Datathon 2026 - The Gridbreaker](https://github.com/NguyenCuongCoder24127337/Datathon_2026)**
+- **📊 [Datathon 2026 - The Gridbreaker](https://github.com/NGUYEN-CUONG-ENTROPY/Datathon_2026)**
   - 🎯 VinTelligence - VinUniversity Competition
   - 📈 Revenue Forecasting for Vietnamese E-Commerce Fashion Company
   - 🔧 **Tech Stack**: Python, Machine Learning, Data Analysis, Jupyter Notebook
   - 📝 Involved: Data Visualization, Model Building, Revenue Prediction
 
-- **🧩 [Freecell-Solver](https://github.com/NguyenCuongCoder24127337/Freecell-Solver)**
+- **🧩 [Freecell-Solver](https://github.com/NGUYEN-CUONG-ENTROPY/Freecell-Solver)**
   - 🎮 AI-based Card Game Solver
   - 🔍 Implemented search algorithms to solve Freecell puzzles
   - 💻 **Tech Stack**: Python
@@ -39,20 +39,25 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ## 📱 Mobile & Full-Stack Development
 
-- **🌍 [TravelTogether](https://github.com/NguyenCuongCoder24127337/TravelTogether)**
+- **🌍 [TravelTogether](https://github.com/NGUYEN-CUONG-ENTROPY/TravelTogether)**
   - 📚 Computational Thinking Group Project (HCMUS 2025-2026)
   - 🎨 Complete Smart Tourism Mobile Application
   - 📱 **Tech Stack**: Flutter, Dart
   - 🔗 **Features**: Trip Planning, Location Discovery, Social Sharing
+
+- **🖥️ [travel_together_server](https://github.com/NGUYEN-CUONG-ENTROPY/travel_together_server-)**
+  - 🔌 Backend Server for TravelTogether App
+  - 📡 REST API Development
+
 ---
 
 ## 🎮 Systems & Game Development
 
-- **🕹️ [PUSSY INVADERS](https://github.com/NguyenCuongCoder24127337/PUSSY_INVADERS)**
+- **🕹️ [PUSSY INVADERS](https://github.com/NGUYEN-CUONG-ENTROPY/PUSSY_INVADERS)**
   - Space Shooter Game Implementation
   - 💻 **Tech Stack**: C++
 
-- **🏟️ [Manager-Stadium-OOP](https://github.com/NguyenCuongCoder24127337/Manager-Stadium-OOP)**
+- **🏟️ [Manager-Stadium-OOP](https://github.com/NGUYEN-CUONG-ENTROPY/Manager-Stadium-OOP)**
   - Stadium Management System using Object-Oriented Programming
   - 💻 **Tech Stack**: C
 
@@ -60,13 +65,13 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ## 🖧 Systems & Network Programming
 
-- **🐧 [XV6 Operating System Labs](https://github.com/NguyenCuongCoder24127337/XV6-operating-system-labs)**
+- **🐧 [XV6 Operating System Labs](https://github.com/NGUYEN-CUONG-ENTROPY/XV6-operating-system-labs)**
   - 📚 OS Course Project (HCMUS 2025-2026)
   - 🔧 Low-level System Programming with xv6
   - 💻 **Tech Stack**: C
   - 🎯 Focus: Process Management, Memory Management, System Calls
 
-- **🌐 [PYTHONSOCKET - Computer Networks](https://github.com/NguyenCuongCoder24127337/PYTHONSOCKET)**
+- **🌐 [PYTHONSOCKET - Computer Networks](https://github.com/NGUYEN-CUONG-ENTROPY/PYTHONSOCKET)**
   - 📡 Network Programming Project (2024-2025)
   - 🔌 Socket Programming & Client-Server Architecture
   - 💻 **Tech Stack**: Python
@@ -75,12 +80,15 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ## 🔬 Other Projects
 
-- **🗂️ [OS-Page-Tables-and-File-System](https://github.com/NguyenCuongCoder24127337/OS-Page-Tables-and-File-System-)**
+- **🗂️ [OS-Page-Tables-and-File-System](https://github.com/NGUYEN-CUONG-ENTROPY/OS-Page-Tables-and-File-System-)**
   - Deep dive into operating system concepts
 
-- **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NguyenCuongCoder24127337/tra_cuu_diem_thi_tri_thuc_mo)**
+- **🌐 [tra_cuu_diem_thi_tri_thuc_mo](https://github.com/NGUYEN-CUONG-ENTROPY/tra_cuu_diem_thi_tri_thuc_mo)**
   - Web application for exam score lookup
   - 💻 **Tech Stack**: EJS, Node.js
+
+- **🎨 [Web Project](https://github.com/NGUYEN-CUONG-ENTROPY/project)**
+  - Front-end development project
 
 ---
 
@@ -119,9 +127,9 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenCuongCoder24127337&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/NguyenCuongCoder24127337)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NGUYEN-CUONG-ENTROPY&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenCuongCoder24127337&layout=compact&theme=radical)](https://github.com/NguyenCuongCoder24127337)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NGUYEN-CUONG-ENTROPY&layout=compact&theme=radical)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
 </div>
 
@@ -131,7 +139,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenCuongCoder24127337&theme=radical&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)](https://github.com/NguyenCuongCoder24127337)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NGUYEN-CUONG-ENTROPY&theme=radical&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)](https://github.com/NGUYEN-CUONG-ENTROPY)
 
 </div>
 
@@ -155,7 +163,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cn20378@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NguyenCuongCoder24127337)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NGUYEN-CUONG-ENTROPY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-8a12a3387/)
 
 ---
