@@ -40,7 +40,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ---
 
-##  Mobile & Full-Stack Development
+## 🛠️ Mobile & Full-Stack Development
 
 - ** [TravelTogether](https://github.com/NGUYEN-CUONG-ENTROPY/TravelTogether)**
   -  Computational Thinking Group Project (HCMUS 2025-2026)
@@ -55,7 +55,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ---
 
-##  Game Development & OOP Projects
+## 🛠️ Game Development & OOP Projects
 
 - ** [PUSSY INVADERS](https://github.com/NGUYEN-CUONG-ENTROPY/PUSSY_INVADERS)**
   -  Space Shooter Game Implementation
@@ -70,7 +70,7 @@ I enjoy working on diverse projects—from building mobile applications with Flu
 
 ---
 
-## 🖧 Systems & Network Programming
+## 🛠️ Systems & Network Programming
 
 - ** [XV6 Operating System Labs](https://github.com/NGUYEN-CUONG-ENTROPY/XV6-operating-system-labs)**
   -  OS Course Project (HCMUS 2025-2026)
